@@ -13,7 +13,7 @@ public class GUIelements {
 	//create stage
 	Stage primaryStage = new Stage();
 	//create items 
-	TextField result_window = new TextField(); 
+	TextField result_window = new TextField();
 	
 	Button digit_1 = new Button("1");
 	
